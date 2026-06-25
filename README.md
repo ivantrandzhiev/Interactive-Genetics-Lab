@@ -1,16 +1,16 @@
 # Interactive-Genetics-Lab
 Interactive SUICA-based genetics lesson for visualizing inheritance of traits through a simplified parent-child model.
 
-
+👉 [Live Demo](https://ivantrandzhiev.github.io/Interactive-Genetics-Lab/Project/)
 
 🎓 Created as part of the course:
 
 **“Creating Interactive Educational Content”**  
 Sofia University **“St. Kliment Ohridski”**
 
-# Genetics SUICA Lab
+# About
 
-**Genetics SUICA Lab** is an interactive web-based educational project that demonstrates the inheritance of traits through a simplified genetics model.
+**Interactive-Genetics-Lab** is a web-based educational project that demonstrates the inheritance of traits through a simplified genetics model.
 
 The project combines theoretical explanations with a visual 3D laboratory, where users can create random parents, move them into a crossing zone, and generate a child whose traits are inherited from the parents.
 
